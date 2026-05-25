@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+AI-Assisted+Developer;%F0%9F%93%B1+Android+App+Builder;%F0%9F%8C%90+Full-Stack+Creator;⚡+I+Build+Apps+with+AI+Agents;🚀+From+Code+to+Production+Fast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=800&lines=AI-Assisted+Developer;Android+App+Builder;Full-Stack+Creator;I+Build+Apps+with+AI+Agents;From+Code+to+Production+Fast" alt="Typing SVG" />
 </p>
 
 <h1 align="center">
@@ -151,15 +151,6 @@ const Varun = {
 
 ## 🎯 What I'm Currently Building
 
-```mermaid
-graph LR
-    A[🤖 AI Agents] --> B[📱 Android App]
-    A --> C[🌐 Web Apps]
-    B --> D[🚀 Production]
-    C --> D
-    D --> E[📈 Scale & Grow]
-```
-
 | Focus Area | Current Project | Tech Stack | Progress |
 |------------|----------------|------------|----------|
 | 📱 **Android** | Campus Hub Mobile | Kotlin, Firebase, Material 3 | 40% |
@@ -207,7 +198,7 @@ graph LR
 ## 💬 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20future%20of%20coding%20is%20human%20creativity%20plus%20AI%20speed.&author=Varun%20Goud" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
@@ -245,6 +236,4 @@ graph LR
   
 </div>
 ```
-
----
 
